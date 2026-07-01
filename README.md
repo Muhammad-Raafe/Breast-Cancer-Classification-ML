@@ -2,7 +2,7 @@
 
 An interactive machine learning web app that classifies breast tumors as **Benign** or **Malignant**, comparing three different classification algorithms — Decision Tree, Random Forest, and SVM — each hyperparameter-tuned with GridSearchCV. Built with Scikit-learn and deployed with Streamlit.
 
-🔗 **Live Demo:** [Add your Streamlit Cloud link here]
+🔗 **Live Demo:** https://breast-cancer-classification-ml-raafe.streamlit.app/
 
 ⚠️ **Disclaimer:** This project is for educational and portfolio purposes only. It is not a medical diagnostic tool and should never be used for real clinical decisions.
 
